@@ -8,7 +8,7 @@ This project addresses the challenge of detecting deepfake content in videos and
 This project focuses on identifying and detecting deepfake media to ensure digital integrity. The system is designed to handle images, videos, and live streams by leveraging advanced machine learning models and cloud computing.
 
 ⭐️ Key Features
-• Deepfake Detection: Identifies deepfake content in images and videos using state-of-the-art deep learning models.
+• Deepfake Detection: Identifies deepfake content in images and videos using state-of-the-art deep learning models. 
 • Confidence Scoring: Provides a confidence score to indicate how likely the media is real or fake.
 • User-Friendly Interface: An intuitive dashboard for easy navigation and real-time updates.
 • AWS Integration: Efficiently handles large volumes of media content using the power of cloud computing.
