@@ -1,0 +1,7 @@
+Flask==2.0.3
+TensorFlow==2.9.1
+Keras==2.7.0
+OpenCV-Python==4.5.3.56
+Numpy==1.21.5
+Pandas==1.3.5
+AWS-SDK==1.15.6
