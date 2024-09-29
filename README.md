@@ -15,6 +15,16 @@ This project focuses on identifying and detecting deepfake media to ensure digit
 3. Result Visualization: Outputs a confidence score and flags suspicious content.
 4. Scalable Backend: Powered by AWS for seamless media processing.
 
+🚀 Installation
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/Deepfake-Detection-System.git
+2. Install required Libraries:
+   pip install -r requirements.txt
+3. Run the Application:
+   python app.py
+
 🛠️ Tech Stack
 • Python
 • OpenCV
