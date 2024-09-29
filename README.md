@@ -1,5 +1,9 @@
 🌐 Deepfake Detection for Digital Integrity
 
+In today’s digital age, deepfakes pose a significant threat to the integrity of media, contributing to misinformation, privacy violations, and fraud. Deepfakes refer to AI-generated synthetic media, primarily videos or images where faces or voices have been convincingly altered. This technology can be misused to create malicious content like fake news, manipulated videos, and identity fraud, raising serious ethical and security concerns.
+
+This project addresses the challenge of detecting deepfake content in videos and images by utilizing machine learning and AI models to preserve digital trust and security.
+
 📜 Overview
 This project focuses on identifying and detecting deepfake media to ensure digital integrity. The system is designed to handle images, videos, and live streams by leveraging advanced machine learning models and cloud computing.
 
