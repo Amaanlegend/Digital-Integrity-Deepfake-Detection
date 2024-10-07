@@ -46,8 +46,5 @@ Follow these steps to set up the project locally:
 7. Healthcare: Verifying video and audio content in telemedicine to ensure that the information shared is trustworthy.
 8. Virtual Reality: Ensuring that avatars and digital representations in VR environments are genuine and not deepfakes.
 
-👥 Contributors:
-• Amaan Tarique (Mathematics and Computing, DTU)
-• Siddharth Sasmal (Information Technology, DTU)
-• Yash Kumar (Mechanical Engineering, DTU)
+
 
